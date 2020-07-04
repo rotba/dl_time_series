@@ -5,4 +5,5 @@ This notebook is a DL excersice aiming at predicting some physical activity that
 
 Our model predictes one of 9 possible activities.
 
+Our model perform 45% accuracy (measured using k(=5) fold)
 
